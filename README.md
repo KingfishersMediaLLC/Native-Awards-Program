@@ -9,3 +9,6 @@
 # January Awards - 0x5F81eB15cbe1EcfB6742334f6742b3e142632D29, 0xaA268b2817c2eE1A20335772DA02230f4b402B3F
 # February Awards - 0x1d69AD0C668318BD787078bcC1589EA776DA740c, 0x2b10843C3B34760e9b4738CB065678686419F35b, 0x44BE78d33F56b3EAa6463b004C79EFE059dDfef7
 # Based on data aggregation constraints from 3rd party resource we have low confidence on continuance of program
+# Additionally we deployedd a special event ERC 1155 for all attendees of our 2 year anniversary broadcast
+# This was distributed to 12 recipients
+# Smart contract 0xfa84929Eb2309BfB4aF15eD394c4dF881AA3e6FE
